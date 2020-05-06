@@ -1,0 +1,5 @@
+#TinkersComplement
+
+"tcomplement:storage"
+"tcomplement:scorched_block":0-11
+s

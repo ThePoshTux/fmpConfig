@@ -14,3 +14,4 @@
 "tconstruct:metal":0-6
 "tconstruct:dried_clay":0-1
 "tconstruct:brownstone":0-11
+"tconstruct:seared":0-11
