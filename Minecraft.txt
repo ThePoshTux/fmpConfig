@@ -17,7 +17,7 @@
 "diamond_ore"
 "redstone_ore"
 "emerald_ore"
-"quartz_ore"
+"minecraft:quartz_ore"
 "glass"
 "stained_glass":0-13
 "lapis_block"

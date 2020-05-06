@@ -1,1 +1,16 @@
 #TinkersConstruct
+
+"tconstruct:soil":0-5
+"tconstruct:slime":0-3
+"tconstruct:slime_congealed":0-4
+"tconstruct:slime_dirt":0-3
+"tconstruct:slime_grass":0-14
+"tconstruct:slime_leaves":0-2
+"tconstruct:ore":0-1
+"tconstruct:firewood":0-1
+"tconstruct:clear_glass"
+"tconstruct:clear_stained_glass":0-15
+"tconstruct:seared_glass"
+"tconstruct:metal":0-6
+"tconstruct:dried_clay":0-1
+"tconstruct:brownstone":0-11

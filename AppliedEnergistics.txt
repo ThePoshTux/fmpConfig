@@ -1,1 +1,13 @@
 #AppliedEnergistics
+
+"appliedenergistics2:quartz_ore"
+"appliedenergistics2:charged_quartz_ore"
+"appliedenergistics2:quartz_block"
+"appliedenergistics2:quartz_pillar"
+"appliedenergistics2:chiseled_quartz_block"
+"appliedenergistics2:quartz_glass"
+"appliedenergistics2:quartz_vibrant_glass"
+"appliedenergistics2:sky_stone_block"
+"appliedenergistics2:smooth_sky_stone_block"
+"appliedenergistics2:sky_stone_brick"
+"appliedenergistics2:sky_stone_small_brick"
