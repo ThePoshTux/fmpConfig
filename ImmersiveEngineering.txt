@@ -1,1 +1,10 @@
 #ImmersiveEngineering
+
+"immersiveengineering:ore":0-5
+"immersiveengineering:storage"
+"immersiveengineering:stone_decoration":0-10
+"immersiveengineering:treated_wood":0-2
+"immersiveengineering:wooden_decoration":1
+"immersiveengineering:sheetmetal":0-10
+"immersiveengineering:metaldecoration0":0-7
+"immersiveengineering:metaldecoration1":1,2,3,5,6,7
