@@ -1,2 +1,2 @@
-type  *.txt > microblocks.cfg
+type  modules\*.txt > microblocks.cfg
 pause
