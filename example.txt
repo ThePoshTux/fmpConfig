@@ -1,4 +1,3 @@
-#Configuration file for adding microblock materials for aesthetic blocks added by mods
 #Each line needs to be of the form <name>:<meta>
 #<name> is the registry key of the block/item enclosed in quotes. NEI can help you find these
 #<meta> may be ommitted, in which case it defaults to 0, otherwise it can be a number, a comma separated list of numbers, or a dash separated range

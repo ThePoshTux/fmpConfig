@@ -6,7 +6,7 @@ A configuration file "microblocks.cfg" is required by Forge Multipart to whiteli
 Download as zip or open with github desktop application
 If in zip form extract files into empty folder.
 This project provides several mod support modules with the .txt extension.
-To remove modules for mods you don't have, either delete the file for that mod or change the extension.
+To remove modules for mods you don't have, move the modules to the provided disabled folder. This allows for easily reenabling modules.
 Run the bat file or .sh file depending upon your system.
 copy the resultant microblocks.cfg to your games config folder
 

@@ -1,0 +1,2 @@
+A folder to store disabled modules.
+To enable modules just move them back to the modules folder.
