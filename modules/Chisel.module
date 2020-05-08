@@ -231,7 +231,6 @@
 "chisel:wool_orange":0-1
 "chisel:wool_white":0-1
 #misc
-"chisel:temple":0-15
 "chisel:templemossy":0-15
 "chisel:tyrian":0-15
 "chisel:valentines":0-9
@@ -245,7 +244,7 @@
 "chisel:lapis":0-15
 "chisel:dirt":0-15
 "chisel:emerald":0-13
-"chisel:futura":0-5
+"chisel:futura":0,1
 "chisel:diamond":0-11
 "chisel:cloud":0-4
 "chisel:blockcobalt":0-6
