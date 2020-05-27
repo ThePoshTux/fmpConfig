@@ -1,0 +1,10 @@
+#Mekanism
+
+"mekanism:basicblock":0,1,2,3,4,8
+"mekanism:saltblock":0
+#Plastic
+"mekanism:plasticblock":0-15
+"mekanism:glowplasticblock":0-15
+"mekanism:slickplasticblock":0-15
+"mekanism:reinforcedplasticblock":0-15
+"mekanism:roadplasticblock":0-15
