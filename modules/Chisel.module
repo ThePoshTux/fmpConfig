@@ -29,8 +29,8 @@
 "chisel:block_charcoal2":0-1
 #cobblestone
 "chisel:cobblestone":0-15
-"chisel:cobblestone":0-9
-"chisel:cobblestone":0-9
+"chisel:cobblestone1":0-9
+"chisel:cobblestone2":0-9
 #coal
 "chisel:block_coal":0-15
 "chisel:block_coal1":0-15
